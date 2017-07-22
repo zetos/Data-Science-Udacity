@@ -1,4 +1,5 @@
 # Sanity check
+# imputation using mean or linear regretion
 
 import pandas
 import numpy
